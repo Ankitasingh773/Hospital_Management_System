@@ -1,0 +1,10 @@
+1|Dr. Rajesh Kumar|General Medicine|300.00|5|doc123
+2|Dr. Suresh Singh|General Medicine|300.00|4|doc123
+3|Dr. Amit Patel|Cardiology|500.00|3|doc123
+4|Dr. Ramesh Gupta|Cardiology|500.00|2|doc123
+5|Dr. Vikram Sharma|Orthopedics|400.00|4|doc123
+6|Dr. Manoj Verma|Orthopedics|400.00|4|doc123
+7|Dr. Priya Reddy|Dermatology|350.00|4|doc123
+8|Dr. Anjali Mehta|Dermatology|350.00|4|doc123
+9|Dr. Sunil Desai|Neurology|600.00|3|doc123
+10|Dr. Arvind Joshi|Neurology|600.00|3|doc123
